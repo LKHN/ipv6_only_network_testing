@@ -1,0 +1,4 @@
+config:
+  aws:defaultTags:
+    tags:
+      Name: "IPv6-only Networking Test"

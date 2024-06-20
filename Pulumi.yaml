@@ -1,0 +1,6 @@
+name: ipv6_only_network_testing
+description: Testing readiness of Enterprise Linuxes on IPv6-only networking
+runtime:
+  name: python
+  options:
+    virtualenv: .venv
